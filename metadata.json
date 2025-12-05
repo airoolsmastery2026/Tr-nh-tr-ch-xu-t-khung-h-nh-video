@@ -1,0 +1,5 @@
+{
+  "name": "Trình trích xuất khung hình video",
+  "description": "Một ứng dụng web cho phép người dùng tải lên video và trích xuất các khung hình theo một khoảng thời gian giây do người dùng chỉ định.",
+  "requestFramePermissions": []
+}
